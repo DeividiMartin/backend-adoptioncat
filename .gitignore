@@ -1,0 +1,48 @@
+# Dependências
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos gerados pela compilação ou transpilação (ex: TypeScript)
+dist/
+build/
+out/
+
+# Arquivos de cache
+.cache/
+dist/
+out-tsc/
+
+# Arquivos de configuração para editores de código
+.vscode/
+.idea/
+
+# Arquivos de saída da cobertura de código
+coverage/
+
+# Dependências de Yarn
+.yarn
+.yarnrc
+.yarn-integrity
+
+# Dependências do npm
+package-lock.json
+
+# JSHint configuration
+.jshintrc
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Diretório de upload de arquivos (se aplicável)
+uploads/

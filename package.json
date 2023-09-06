@@ -1,8 +1,8 @@
 {
-  "name": "backendadoption-cat",
+  "name": "backend-adoption-cat",
   "version": "1.0.0",
   "description": "Backend for Adoption Cats",
-  "main": "src/server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node src/server.js"
   },
